@@ -19,3 +19,9 @@ npm i
 ```
 npm run dev
 ```
+
+All instructions in command line
+
+```
+ npm install @reduxjs/toolkit react-redux react-router-dom react-icons react-chartjs-2 chart.js daisy os react-hot-toast @tailwindcss/line-clamp
+ ```
